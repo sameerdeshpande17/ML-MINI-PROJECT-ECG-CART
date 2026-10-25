@@ -1,0 +1,19 @@
+ECG Arrhythmia Classification - Run Summary
+===========================================
+Dataset rows: 452
+Features used: 278
+Observed classes: 13
+Train/test rows: 316/136
+Best model by hold-out Macro F1: Gradient Boosting
+Accuracy: 0.7353
+Balanced accuracy: 0.4666
+Macro F1: 0.4036
+Weighted F1: 0.6985
+ROC AUC (macro OvR): 0.8091
+ROC AUC (weighted OvR): 0.8708
+
+Multiclass ROC-AUC uses a one-vs-rest strategy. Macro AUC weights classes equally;
+weighted AUC weights classes by support.
+ROC-AUC is probability-based and may also be unstable for rare classes.
+Note: the selected model was chosen using hold-out Macro F1, so its score
+may be optimistic. Rare-class metrics are unstable with very few examples.

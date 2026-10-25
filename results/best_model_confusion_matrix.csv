@@ -1,0 +1,14 @@
+actual_class,predicted_1,predicted_2,predicted_3,predicted_4,predicted_5,predicted_6,predicted_7,predicted_8,predicted_9,predicted_10,predicted_14,predicted_15,predicted_16
+actual_1,70,1,0,2,0,1,0,0,0,0,0,0,0
+actual_2,4,6,0,1,0,0,0,0,1,0,0,1,0
+actual_3,0,0,3,0,1,0,0,0,0,0,0,0,0
+actual_4,1,0,0,2,0,0,0,0,0,1,0,0,0
+actual_5,4,0,0,0,0,0,0,0,0,0,0,0,0
+actual_6,1,0,0,0,0,7,0,0,0,0,0,0,0
+actual_7,0,0,1,0,0,0,0,0,0,0,0,0,0
+actual_8,0,0,0,0,0,0,0,0,0,0,0,0,1
+actual_9,0,0,0,0,0,0,0,0,3,0,0,0,0
+actual_10,4,0,0,1,0,2,0,0,0,8,0,0,0
+actual_14,0,0,0,0,0,0,0,0,0,0,0,0,1
+actual_15,0,0,0,0,0,0,0,0,0,0,0,1,0
+actual_16,3,0,0,0,0,1,0,0,1,1,0,1,0

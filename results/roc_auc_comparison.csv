@@ -1,0 +1,7 @@
+Model,ROC AUC (macro OvR),ROC AUC (weighted OvR)
+Random Forest,0.877517,0.888963
+Extra Trees,0.856444,0.875405
+Gradient Boosting,0.809111,0.870761
+Logistic Regression (balanced),0.733247,0.812989
+CART (Gini),0.667447,0.773341
+CART (balanced),0.659238,0.715464
